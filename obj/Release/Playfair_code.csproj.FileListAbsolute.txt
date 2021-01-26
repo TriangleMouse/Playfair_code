@@ -1,0 +1,9 @@
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\bin\Release\Playfair_code.exe
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\bin\Release\Playfair_code.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.csprojAssemblyReference.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.Form1.resources
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.Properties.Resources.resources
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.csproj.GenerateResource.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.csproj.CoreCompileInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.exe
+C:\Users\Artem\OneDrive\Рабочий стол\Playfair_code\Playfair_code\obj\Release\Playfair_code.pdb
